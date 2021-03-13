@@ -52,7 +52,7 @@ ul{
 
 #bg{
     height: 570px;
-    background: url('images/backgroung_image.jpg') no-repeat;
+    background: url('Images/backgroung_image.jpg') no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
